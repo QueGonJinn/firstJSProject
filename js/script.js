@@ -55,7 +55,7 @@ if (personalMovieDB.count < 10) {
            } else {
                console.log('Error');
            }
-        
+  
 
 
 console.log(personalMovieDB); 
